@@ -5,4 +5,4 @@
 
 ### Create & Checkout a branch in one command
 
-git checkout -b your_branch
+`git checkout -b your_branch`
